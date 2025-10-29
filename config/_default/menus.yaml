@@ -1,0 +1,39 @@
+leftnav:
+- identifier: 988a9942-ca8b-6f67-c579-d48551d94734
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e42e0cba-e49a-e473-fc3e-8a56fa0a89c0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: df70a6de-0190-1962-8271-a3854c0e8293
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 004b6f39-6a02-f045-60d4-10be1ab5cc8b
+  name: Role-Play and Simulation
+  pageRef: /pages/instructor-insights/role-play-and-simulation
+  parent: df70a6de-0190-1962-8271-a3854c0e8293
+  weight: 40
+- identifier: 0d849887-472d-a3e6-4f24-ed7d4bffb8e4
+  name: Refining the Course
+  pageRef: /pages/instructor-insights/refining-the-course
+  parent: df70a6de-0190-1962-8271-a3854c0e8293
+  weight: 50
+- identifier: 73128ff4-bc40-4841-1fb2-e64000567ea8
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 526f0bc8-7e12-e0e9-ce71-9a8663b794b8
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 70
+- identifier: 81a01a7a-b6d0-8799-1585-908c295b17c1
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: e216e64f-2b5b-9727-c226-8c22e7d619bf
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
